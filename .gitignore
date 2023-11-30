@@ -1,5 +1,4 @@
 .vscode/*
-venv/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -11,3 +10,6 @@ venv/*
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# venv
+venv
